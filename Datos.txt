@@ -1,0 +1,4 @@
+{"Nombre":"ANA PATRICIA BARBA ESCAMILLA","Matricula":"18601215","Correo":"PATY@GMAIL.COM","Promedio":"99"}
+{"Nombre":"JUAN ANTONIO RAMOS GUZMAN ","Matricula":"18601216","Correo":"ELJUANITO@GMAIL.COM","Promedio":"100"}
+{"Nombre":"JOSE ANTONIO MATEO","Matricula":"18601217","Correo":"ELCHAPULIN@GMAIL.COM","Promedio":"100"}
+{"Nombre":"INGRID DE JESUS REYES ","Matricula":"186010457","Correo":"LA MACHO@GMAIL.COM","Promedio":"98"}
